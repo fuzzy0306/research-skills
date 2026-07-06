@@ -1,4 +1,4 @@
-﻿# Paper Reading
+﻿# Experiment Planning
 
 This folder is used to organize reusable notes, templates, checklists, and examples for this research skill.
 
